@@ -1,5 +1,5 @@
 {
-  "name": "my-debugging-proxy",
+  "name": "hprofiler",
   "version": "0.0.0",
   "main": "./run-hoxy",
   "dependencies": {
