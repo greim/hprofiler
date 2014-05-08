@@ -1,0 +1,9 @@
+{
+  "name": "my-debugging-proxy",
+  "version": "0.0.0",
+  "main": "./run-hoxy",
+  "dependencies": {
+    "hoxy": "1.x",
+    "lodash": "^2.4.1"
+  }
+}
