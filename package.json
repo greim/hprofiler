@@ -1,7 +1,18 @@
 {
   "name": "hprofiler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./run-hoxy",
+  "keywords": [
+    "web",
+    "performance",
+    "profile",
+    "proxy"
+  ],
+  "author": "Greg Reimer <gregreimer@gmail.com> (http://obadger.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/greim/hprofiler.git"
+  },
   "dependencies": {
     "hoxy": "1.x",
     "lodash": "^2.4.1"
