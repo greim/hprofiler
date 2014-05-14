@@ -87,6 +87,7 @@ module.exports = function(opts){
       var amounts = util.format('sending: %sms, waiting: %sms, receiving: %sms', num(time.sending), num(time.waiting), num(time.receiving));
       console.log(s + ' | ' + amounts + ' | ' + time.url.substring(0,80));
     });
+    console.log('total: ' + range + 'ms');
     console.log('\n\n');
   }
 
